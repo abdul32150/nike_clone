@@ -9,7 +9,7 @@ import {
   Services,
   SpecialOffer,
 } from "./sections";
-import { Nav } from "./temp_components";
+import { Nav } from "./components";
 
 const App = () => {
   return (

@@ -1,4 +1,4 @@
-import { Button } from "../temp_components";
+import { Button } from "../components";
 
 const Subscribe = () => {
   return (

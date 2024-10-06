@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 import { shoes, statistics } from "../constants";
-import  Button from "../temp_components/Button";
-import  ShoeCard from "../temp_components/ShoeCard";
+import  Button from "../components/Button";
+import  ShoeCard from "../components/ShoeCard";
 
 import { bigShoe1 } from "../assets/images";
 import { arrowRight } from "../assets/icons";
