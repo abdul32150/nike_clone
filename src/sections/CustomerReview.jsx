@@ -1,6 +1,6 @@
 import React from "react";
 import { reviews } from "../constants";
-import ReviewCard from "../Components/ReviewCard";
+import ReviewCard from "../components/ReviewCard";
 
 const CustomerReview = () => {
   return (

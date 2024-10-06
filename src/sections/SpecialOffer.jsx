@@ -1,6 +1,6 @@
 import React from "react";
 import { offer } from "../assets/images";
-import Button from "../Components/Button";
+import Button from "../components/Button";
 import { arrowRight } from "../assets/icons";
 
 const SpecialOffer = () => {
