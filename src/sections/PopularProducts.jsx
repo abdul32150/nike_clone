@@ -1,4 +1,4 @@
-import PopularProductCard from "../components/PopularProductCard";
+import PopularProductCard from "../temp_components/PopularProductCard";
 import { products } from "../constants";
 
 
